@@ -30,3 +30,8 @@ These instructions will get you a copy of the project up and running on your loc
    ```bash
    git clone https://github.com/your-username/restaurant_foodly.git
    cd restaurant_foodly
+
+Preview
+
+
+<img src="lab5.gif" width="360" height="802"/>
